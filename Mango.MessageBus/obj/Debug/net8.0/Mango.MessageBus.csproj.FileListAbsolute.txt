@@ -1,0 +1,12 @@
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.deps.json
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.dll
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.pdb
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.csproj.AssemblyReference.cache
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.AssemblyInfoInputs.cache
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.AssemblyInfo.cs
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.csproj.CoreCompileInputs.cache
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.dll
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\obj\Debug\net8.0\refint\Mango.MessageBus.dll
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.pdb
+D:\Udemy\Microservices\Code\Mango\Mango.MessageBus\obj\Debug\net8.0\ref\Mango.MessageBus.dll

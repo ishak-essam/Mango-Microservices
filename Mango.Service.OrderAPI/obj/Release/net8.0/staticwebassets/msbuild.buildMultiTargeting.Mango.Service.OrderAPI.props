@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mango.Service.OrderAPI.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6WK9QBh5pm6/AG7NBox3JI5nGpXIcoqqBZX5vd59WLU=",
+  "Source": "Mango.Service.EmailAPI",
+  "BasePath": "_content/Mango.Service.EmailAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

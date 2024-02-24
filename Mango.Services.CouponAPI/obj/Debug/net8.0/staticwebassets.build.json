@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "xiHtogg0jp8QKsLtOiFPCTHwjfM6hFDyyd3Enihx/SM=",
+  "Source": "Mango.Service.CouponAPI",
+  "BasePath": "_content/Mango.Service.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Udemy\\Microservices\\Code\\Mango\\Mango.Service.AuthAPI\\Mango.Service.AuthAPI.csproj",
+      "Version": 2,
+      "Source": "Mango.Service.AuthAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
